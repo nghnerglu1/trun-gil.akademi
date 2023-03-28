@@ -16,7 +16,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #ffb03b;
+  color: #3bffdb;
 }
 
 a:hover {
@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffb03b;
+  background: #3bffdb;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -88,7 +88,7 @@ h6 {
 }
 
 #topbar i {
-  color: #ffb03b;
+  color: #3bffdb;
   line-height: 0;
 }
 
@@ -143,7 +143,7 @@ h6 {
 # Book a table button Menu
 --------------------------------------------------------------*/
 .book-a-table-btn {
-  background: #ffb03b;
+  background: #3bffdb;
   color: #fff;
   border-radius: 50px;
   margin: 0 0 0 20px;
@@ -214,7 +214,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ffb03b;
+  color: #3bffdb;
 }
 
 .navbar .dropdown ul {
@@ -251,7 +251,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #ffb03b;
+  color: #3bffdb;
 }
 
 .navbar .dropdown:hover>ul {
@@ -347,7 +347,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #ffb03b;
+  color: #3bffdb;
 }
 
 .navbar-mobile .getstarted,
@@ -382,7 +382,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #ffb03b;
+  color: #3bffdb;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -441,7 +441,7 @@ h6 {
 }
 
 #hero h2 span {
-  color: #ffb03b;
+  color: #3bffdb;
 }
 
 #hero p {
@@ -519,12 +519,12 @@ h6 {
   margin: 0 10px;
   animation-delay: 0.8s;
   color: #fff;
-  border: 2px solid #ffb03b;
+  border: 2px solid #3bffdb;
 }
 
 #hero .btn-menu:hover,
 #hero .btn-book:hover {
-  background: #ffb03b;
+  background: #3bffdb;
   color: #fff;
 }
 
@@ -569,7 +569,7 @@ section {
 }
 
 .section-title h2 span {
-  color: #ffb03b;
+  color: #3bffdb;
 }
 
 .section-title p {
@@ -689,7 +689,7 @@ section {
 
 .about .content ul i {
   font-size: 20px;
-  color: #ffb03b;
+  color: #3bffdb;
   position: absolute;
   left: 0;
   top: 2px;
@@ -753,7 +753,7 @@ section {
 }
 
 .about .play-btn:hover::after {
-  border-left: 15px solid #ffb03b;
+  border-left: 15px solid #3bffdb;
   transform: scale(20);
 }
 
@@ -838,7 +838,7 @@ section {
 }
 
 .why-us .box:hover {
-  background: #ffb03b;
+  background: #3bffdb;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
@@ -871,14 +871,14 @@ section {
   margin: 0 3px 10px 3px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  border: 2px solid #ffb03b;
+  border: 2px solid #3bffdb;
   border-radius: 50px;
 }
 
 .menu #menu-flters li:hover,
 .menu #menu-flters li.filter-active {
   color: #fff;
-  background: #ffb03b;
+  background: #3bffdb;
 }
 
 .menu #menu-flters li:last-child {
@@ -951,12 +951,12 @@ section {
 }
 
 .specials .nav-link:hover {
-  color: #ffb03b;
+  color: #3bffdb;
 }
 
 .specials .nav-link.active {
-  color: #ffb03b;
-  border-color: #ffb03b;
+  color: #3bffdb;
+  border-color: #3bffdb;
 }
 
 .specials .tab-pane.active {
@@ -986,7 +986,7 @@ section {
 
   .specials .nav-link.active {
     color: #fff;
-    background: #ffb03b;
+    background: #3bffdb;
   }
 }
 
@@ -1035,7 +1035,7 @@ section {
 .events .event-item h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #ffb03b;
+  color: #3bffdb;
 }
 
 .events .event-item .price {
@@ -1046,7 +1046,7 @@ section {
 }
 
 .events .event-item .price span {
-  border-bottom: 2px solid #ffb03b;
+  border-bottom: 2px solid #3bffdb;
 }
 
 .events .event-item ul {
@@ -1061,7 +1061,7 @@ section {
 .events .event-item ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #ffb03b;
+  color: #3bffdb;
 }
 
 .events .event-item p:last-child {
@@ -1081,7 +1081,7 @@ section {
 }
 
 .events .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ffb03b;
+  background-color: #3bffdb;
 }
 
 /*--------------------------------------------------------------
@@ -1163,7 +1163,7 @@ section {
 }
 
 .book-a-table .php-email-form button[type=submit] {
-  background: #ffb03b;
+  background: #3bffdb;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1282,7 +1282,7 @@ section {
 }
 
 .chefs .member .social a:hover {
-  color: #ffb03b;
+  color: #3bffdb;
 }
 
 .chefs .member .social i {
@@ -1360,7 +1360,7 @@ section {
 }
 
 .testimonials .testimonial-item .stars {
-  color: #ffb03b;
+  color: #3bffdb;
   margin-bottom: 10px;
 }
 
@@ -1402,7 +1402,7 @@ section {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ffb03b;
+  background-color: #3bffdb;
 }
 
 @media (min-width: 992px) {
@@ -1425,7 +1425,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #ffb03b;
+  color: #3bffdb;
   float: left;
   width: 44px;
   height: 44px;
@@ -1454,7 +1454,7 @@ section {
 }
 
 .contact .info:hover i {
-  background: #ffb03b;
+  background: #3bffdb;
   color: #fff;
 }
 
@@ -1522,7 +1522,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #ffb03b;
+  background: #3bffdb;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1558,7 +1558,7 @@ section {
 #footer h3 {
   font-size: 36px;
   font-weight: 700;
-  color: #ffb03b;
+  color: #3bffdb;
   position: relative;
   padding: 0;
   margin: 0 0 15px 0;
@@ -1591,7 +1591,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #ffb03b;
+  background: #3bffdb;
 }
 
 #footer .copyright {
