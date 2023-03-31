@@ -53,12 +53,16 @@ h6 {
 .back-to-top i {
   font-size: 28px;
   color: #fff;
+
+;
   line-height: 0;
 }
 
 .back-to-top:hover {
   background: #ffc064;
   color: #fff;
+
+;
 }
 
 .back-to-top.active {
@@ -66,6 +70,10 @@ h6 {
   opacity: 1;
 }
 
+
+.navbar {
+ color:#3bffdb;
+}
 /*--------------------------------------------------------------
 # Top Bar
 --------------------------------------------------------------*/
@@ -94,6 +102,8 @@ h6 {
 
 #topbar i span {
   color: #fff;
+
+;
   font-style: normal;
   padding-left: 5px;
 }
@@ -130,6 +140,8 @@ h6 {
 #header .logo h1 a,
 #header .logo h1 a:hover {
   color: #fff;
+
+;
   text-decoration: none;
 }
 
@@ -145,6 +157,8 @@ h6 {
 .book-a-table-btn {
   background: #3bffdb;
   color: #fff;
+
+;
   border-radius: 50px;
   margin: 0 0 0 20px;
   padding: 10px 25px;
@@ -158,6 +172,8 @@ h6 {
 .book-a-table-btn:hover {
   background: #ffa012;
   color: #fff;
+
+;
 }
 
 @media (max-width: 992px) {
@@ -228,6 +244,8 @@ h6 {
   opacity: 0;
   visibility: hidden;
   background: #fff;
+
+;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
   border-radius: 4px;
@@ -288,6 +306,8 @@ h6 {
 */
 .mobile-nav-toggle {
   color: #fff;
+
+;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -333,6 +353,8 @@ h6 {
   padding: 10px 0;
   border-radius: 8px;
   background-color: #fff;
+
+;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -364,6 +386,8 @@ h6 {
   opacity: 1;
   visibility: visible;
   background: #fff;
+
+;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
@@ -435,6 +459,8 @@ h6 {
 
 #hero h2 {
   color: #fff;
+
+;
   margin-bottom: 30px;
   font-size: 48px;
   font-weight: 700;
@@ -449,6 +475,8 @@ h6 {
   animation-delay: 0.4s;
   margin: 0 auto 30px auto;
   color: #fff;
+
+;
 }
 
 #hero .carousel-inner .carousel-item {
@@ -519,6 +547,8 @@ h6 {
   margin: 0 10px;
   animation-delay: 0.8s;
   color: #fff;
+
+;
   border: 2px solid #3bffdb;
 }
 
@@ -526,6 +556,8 @@ h6 {
 #hero .btn-book:hover {
   background: #3bffdb;
   color: #fff;
+
+;
 }
 
 @media (max-width: 768px) {
@@ -648,9 +680,7 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-.about {
-  background: #fffaf3;
-}
+
 
 .about .content {
   padding: 0 80px;
@@ -730,6 +760,8 @@ section {
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
   border-left: 15px solid #fff;
+
+;
   z-index: 100;
   transition: all 400ms cubic-bezier(0.55, 0.055, 0.675, 0.19);
 }
@@ -769,6 +801,8 @@ section {
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
   border-left: 15px solid #fff;
+
+;
   z-index: 200;
   animation: none;
   border-radius: 0;
@@ -847,6 +881,8 @@ section {
 .why-us .box:hover h4,
 .why-us .box:hover p {
   color: #fff;
+
+;
 }
 
 /*--------------------------------------------------------------
@@ -871,6 +907,8 @@ section {
   margin: 0 3px 10px 3px;
   transition: all ease-in-out 0.3s;
   background: #fff;
+
+;
   border: 2px solid #3bffdb;
   border-radius: 50px;
 }
@@ -878,6 +916,8 @@ section {
 .menu #menu-flters li:hover,
 .menu #menu-flters li.filter-active {
   color: #fff;
+
+;
   background: #3bffdb;
 }
 
@@ -907,6 +947,8 @@ section {
 .menu .menu-content a {
   padding-right: 10px;
   background: #fff;
+
+;
   position: relative;
   z-index: 3;
   font-weight: 700;
@@ -915,6 +957,8 @@ section {
 
 .menu .menu-content span {
   background: #fff;
+
+;
   position: relative;
   z-index: 3;
   padding: 0 10px;
@@ -986,6 +1030,8 @@ section {
 
   .specials .nav-link.active {
     color: #fff;
+
+;
     background: #3bffdb;
   }
 }
@@ -1011,6 +1057,8 @@ section {
 
 .events .section-title h2 {
   color: #fff;
+
+;
 }
 
 .events .container {
@@ -1030,6 +1078,8 @@ section {
 
 .events .event-item {
   color: #fff;
+
+;
 }
 
 .events .event-item h3 {
@@ -1092,6 +1142,8 @@ section {
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
   padding: 30px;
   background: #fff;
+
+;
 }
 
 .book-a-table .php-email-form .form-group {
@@ -1109,6 +1161,8 @@ section {
 .book-a-table .php-email-form .error-message {
   display: none;
   color: #fff;
+
+;
   background: #ed3c0d;
   text-align: left;
   padding: 15px;
@@ -1122,6 +1176,8 @@ section {
 .book-a-table .php-email-form .sent-message {
   display: none;
   color: #fff;
+
+;
   background: #18d26e;
   text-align: center;
   padding: 15px;
@@ -1131,6 +1187,8 @@ section {
 .book-a-table .php-email-form .loading {
   display: none;
   background: #fff;
+
+;
   text-align: center;
   padding: 15px;
 }
@@ -1167,6 +1225,8 @@ section {
   border: 0;
   padding: 10px 24px;
   color: #fff;
+
+;
   transition: 0.4s;
   border-radius: 50px;
 }
@@ -1185,7 +1245,11 @@ section {
 .gallery .gallery-item {
   overflow: hidden;
   border-right: 3px solid #fff;
+
+;
   border-bottom: 3px solid #fff;
+
+;
 }
 
 .gallery .gallery-item img {
@@ -1238,6 +1302,8 @@ section {
   left: 20px;
   right: 20px;
   background: #fff;
+
+;
   padding: 20px 0;
   color: #433f39;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
@@ -1335,6 +1401,8 @@ section {
 .testimonials .testimonial-item {
   text-align: center;
   color: #fff;
+
+;
 }
 
 .testimonials .testimonial-item .testimonial-img {
@@ -1349,6 +1417,8 @@ section {
   font-weight: bold;
   margin: 10px 0 5px 0;
   color: #fff;
+
+;
   font-family: "Poppins", sans-serif;
 }
 
@@ -1421,6 +1491,8 @@ section {
 
 .contact .info {
   background: #fff;
+
+;
 }
 
 .contact .info i {
@@ -1429,7 +1501,8 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #fff6e8;
+  background: #fff;
+  ;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1456,6 +1529,8 @@ section {
 .contact .info:hover i {
   background: #3bffdb;
   color: #fff;
+
+;
 }
 
 .contact .php-email-form {
@@ -1463,6 +1538,8 @@ section {
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
   padding: 30px;
   background: #fff;
+
+;
 }
 
 .contact .php-email-form .form-group {
@@ -1472,6 +1549,8 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
+
+;
   background: #ed3c0d;
   text-align: center;
   padding: 15px;
@@ -1481,6 +1560,8 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
+
+;
   background: #18d26e;
   text-align: center;
   padding: 15px;
@@ -1490,6 +1571,8 @@ section {
 .contact .php-email-form .loading {
   display: none;
   background: #fff;
+
+;
   text-align: center;
   padding: 15px;
 }
@@ -1526,6 +1609,8 @@ section {
   border: 0;
   padding: 10px 24px;
   color: #fff;
+
+;
   transition: 0.4s;
   border-radius: 50px;
 }
@@ -1550,6 +1635,8 @@ section {
 #footer {
   background: #35322d;
   color: #fff;
+
+;
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
@@ -1580,6 +1667,8 @@ section {
   display: inline-block;
   background: #46423b;
   color: #fff;
+
+;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
